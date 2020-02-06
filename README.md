@@ -1,3 +1,7 @@
 # typescriptms
 
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
+
+
+
+npm run dev
